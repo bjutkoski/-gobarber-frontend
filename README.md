@@ -1,4 +1,4 @@
-# GoBarber - Web (ReactJs)
+# GoBarber - Web (React)
 
 React application to make an appointment with a barber.
 
